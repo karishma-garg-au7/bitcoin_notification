@@ -62,7 +62,7 @@ Working Procedure:
 Credentials:
  Webhooks Key- eA_ZN_ZsBcX4FZmsgzdc_7_yppNdLzDCWsJaoAz65Ci
 
- Telegram Channel Link- (@bitcoin_notifier)https://t.me/bitcoin_notifier
+ Telegram Channel Link- (@bitcoin_notifier)https://t.me/Bitcoin_update_21
 
  Email linked to the service- karishmaag21@gmail.com
 
