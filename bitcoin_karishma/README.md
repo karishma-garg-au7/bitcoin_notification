@@ -5,10 +5,10 @@ Working Procedure:
 Installation
 Following command on terminal will install bitcoin_karishma package/module from PIP
 
-pip3 install bitcoin_karishma
+pip install bitcoin_karishma
 Following command on terminal will install the latest bitcoin_karishma package/module from PIP
 
-pip3 install -U bitcoin_karishma
+pip install -U bitcoin_karishma
 
 Usage
 
@@ -36,7 +36,7 @@ Un-installation:
 
 Following command on terminal will uninstall bitcoin-notifier package/module from your device
 
-pip3 uninstall bitcoin_karishma
+pip uninstall bitcoin_karishma
 
 • The Project is divided into four functions/modules:
 
